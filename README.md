@@ -50,9 +50,8 @@ JavaScript works with the DOM and browser storage (localStorage) to provide a se
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong>📁 To-Do-List-App-Useing-Javascript</strong>
+      <strong>📁 To-Do List App</strong>
       <pre>
-To-Do-List-App-Useing-Javascript/
 ├── index.html
 ├── script.js
 ├── style.css
