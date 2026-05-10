@@ -50,7 +50,7 @@ JavaScript works with the DOM and browser storage (localStorage) to provide a se
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong>📁 Root Directory</strong>
+      <strong>📁 To-Do-List-App-Useing-Javascript</strong>
       <pre>
 To-Do-List-App-Useing-Javascript/
 ├── index.html
