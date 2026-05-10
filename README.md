@@ -52,6 +52,7 @@ JavaScript works with the DOM and browser storage (localStorage) to provide a se
     <td width="50%" valign="top">
       <strong>📁 To-Do List App</strong>
       <pre>
+To-Do List App/        
 ├── index.html
 ├── script.js
 ├── style.css
